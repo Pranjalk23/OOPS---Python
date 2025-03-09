@@ -8,4 +8,20 @@
       > code reusability
       > debugging
       > easy to colab
-      
+5. End to End project 
+      > function vs method
+      > magic or dunder method
+      > u can create attribute outside class as well
+      >encapsulation
+      > getter and setter
+      > static method
+6.Inheritence
+      > Code example
+      > why its needed? (code reusability, parent has no access to child class)
+      > what gets inherited? - Contructor, Non private attributes and methods.
+      > Constructor overloading & method overloading
+      > Super keyword(used only in inside class, cannot accvariables/attributes, used only inside child class.
+
+      > Types 1. Single 2. Multilevel 3. hierarchial 4.multiple(Diamond problem)
+              5. Hybrid
+              
